@@ -1,0 +1,9 @@
+.todo_filter {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+
+  .todo_filter__button {
+    padding: 4px 8px;
+  }
+}
